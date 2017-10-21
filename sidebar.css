@@ -192,6 +192,7 @@ this is where my personal styles come in
 .cards {
   display: flex;
   flex-wrap: wrap;
+  justify-content: space-around;
 }
 
 .btn {
@@ -216,7 +217,7 @@ this is where my personal styles come in
 }
 
 .work-container {
-  width: 80%;
+  width: 100%;
   margin:  auto;
   display: none;
 }
