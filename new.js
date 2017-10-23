@@ -9,8 +9,8 @@ function workbelt() {
 
     $('.view').click(function() {
         $('.work-belt').css('left', '-100%');
-        $('.work-container').show();
         $('.card').hide(800);
+        $('.work-container').show();
     });
 
 
